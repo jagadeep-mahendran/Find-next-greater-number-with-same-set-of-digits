@@ -1,5 +1,5 @@
 # Find-next-greater-number-with-same-set-of-digits
-Find next greater number with same set of digits
+ Here is the most simplest way ... more number of lines doesnt mean complex
 
 
 Input:  n = "218765"
